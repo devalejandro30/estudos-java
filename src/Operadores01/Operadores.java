@@ -1,3 +1,5 @@
+package Operadores01;
+
 public class Operadores {
 
     // + - / *

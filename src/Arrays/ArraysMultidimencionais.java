@@ -38,7 +38,7 @@ public class ArraysMultidimencionais {
         arrayInt[2] = new int[6];
 
         int[][] arrayInt2 = {{0, 0}, {1, 2, 3}, {1, 2, 3, 4, 5, 6}};
-        // tamanho base do array [3] c/ 3 arrays 
+        // tamanho base do array [3] c/ 3 arrays
 
         for (int[] arrBase : arrayInt) {
             System.out.println("\n-----");
