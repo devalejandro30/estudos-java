@@ -1,4 +1,4 @@
-package heranca.dominio;
+package POO.heranca.dominio;
 
 public class Endereco {
     private String rua;

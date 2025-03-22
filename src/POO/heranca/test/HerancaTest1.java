@@ -1,8 +1,8 @@
-package heranca.test;
+package POO.heranca.test;
 
-import heranca.dominio.Endereco;
-import heranca.dominio.Funcionario;
-import heranca.dominio.Pessoa;
+import POO.heranca.dominio.Endereco;
+import POO.heranca.dominio.Funcionario;
+import POO.heranca.dominio.Pessoa;
 
 // herança -> usado quando quer se estender a funcionalidade/usar polimorfismo de uma classe e
 // manter o relacionamento entre elas
