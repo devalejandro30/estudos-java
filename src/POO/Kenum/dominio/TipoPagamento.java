@@ -14,7 +14,6 @@ public enum TipoPagamento {
     };
 
     public abstract double calcularDesconto(double valor);
-
     // metodo abstrato não pode ter corpo
     // criado somente para ser sobrescrito
 }
