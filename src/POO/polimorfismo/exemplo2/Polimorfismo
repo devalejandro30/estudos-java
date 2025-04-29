@@ -1,0 +1,6 @@
+tipos de Polimorfismo:
+1. Sobreposição
+2. Sobrecarga
+
+Sobreposição -> acontece quando substituímos um método de uma superclasse na
+sua subclasse, usando a mesma assinatura
